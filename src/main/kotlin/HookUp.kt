@@ -1,5 +1,6 @@
 
- fun HookUp(): Boolean {
+fun main(args: Array<String>) {
 
-     return true
+    println("Hello World")
+
  }
